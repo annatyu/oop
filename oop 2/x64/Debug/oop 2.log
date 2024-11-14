@@ -1,0 +1,2 @@
+﻿oop 2.obj : error LNK2019: unresolved external symbol "public: void __cdecl TaxPayer::addIncome(double,bool)" (?addIncome@TaxPayer@@QEAAXN_N@Z) referenced in function main
+C:\Users\anna.tyulkina\Desktop\oop 2\x64\Debug\oop 2.exe : fatal error LNK1120: 1 unresolved externals
